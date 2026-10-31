@@ -7,16 +7,6 @@ I'm a second-year Computer Science and Engineering student passionate about tech
 
 I'm currently exploring Machine Learning, Deep Learning, Generative AI, and emerging AI technologies while strengthening my programming and problem-solving skills.
 
-## 🔬 Research Experience
-
-**Research Contributor – Project SYNAPSE**
-
-Human-AI Reciprocal Intelligence Initiative
-
-- Exploring Human-AI collaborative reasoning.
-- Interested in reciprocal learning and collective intelligence.
-- Contributing to research, experimentation, and technical exploration.
-
 ## 💻 Technical Skills
 
 - **Languages:** C, C++, Python
